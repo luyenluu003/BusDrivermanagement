@@ -1,0 +1,3 @@
+Mã LX:10000 -Họ tên:luyen -Địa chỉ:ninh binh -SDT:1231312 -Trình độ:A
+Mã LX:10001 -Họ tên:dat -Địa chỉ:ninh binh -SDT:12314 -Trình độ:B
+Mã LX:10002 -Họ tên:quy -Địa chỉ:ha noi -SDT:13123 -Trình độ:A

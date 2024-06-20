@@ -1,0 +1,6 @@
+Tên tài xế:dat-Tuyến đường:Mã tuyến:102 -Khoảng cách:12000 -Số điểm dừng:5 -Số lượt:8
+Tên tài xế:dat-Tuyến đường:Mã tuyến:103 -Khoảng cách:10000 -Số điểm dừng:4 -Số lượt:3
+Tên tài xế:luyen-Tuyến đường:Mã tuyến:100 -Khoảng cách:5000 -Số điểm dừng:2 -Số lượt:3
+Tên tài xế:luyen-Tuyến đường:Mã tuyến:103 -Khoảng cách:10000 -Số điểm dừng:4 -Số lượt:6
+Tên tài xế:quy-Tuyến đường:Mã tuyến:102 -Khoảng cách:12000 -Số điểm dừng:5 -Số lượt:5
+Tên tài xế:quy-Tuyến đường:Mã tuyến:103 -Khoảng cách:10000 -Số điểm dừng:4 -Số lượt:10

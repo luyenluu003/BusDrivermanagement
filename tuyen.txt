@@ -1,0 +1,4 @@
+Mã tuyến:100 -Khoảng cách:5000 -Số điểm dừng:2
+Mã tuyến:101 -Khoảng cách:9000 -Số điểm dừng:3
+Mã tuyến:102 -Khoảng cách:12000 -Số điểm dừng:5
+Mã tuyến:103 -Khoảng cách:10000 -Số điểm dừng:4
